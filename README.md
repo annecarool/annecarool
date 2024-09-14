@@ -1,6 +1,6 @@
 
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Georgia&weight=800&pause=1000&size=33&color=000000&width=370&height=100&lines=Hi+%2C+I'm+Anne+!" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Georgia&weight=800&pause=1000&size=33&color=000000&width=370&height=100&lines=Hi+%2C+I'm+Anne!" alt="Typing SVG" /></a>
 </p>
 <p align="left"> 
 <img src="https://komarev.com/ghpvc/?username=annecarool&color=FFC0CB" alt="watching_count" />
@@ -10,8 +10,8 @@
 
 <picture> <img align="right" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif" width = 400px></picture>
  <p align="left">
-  <img src="https://img.shields.io/badge/Focus-Leadership-dodgerblue" />
-  <img src="https://img.shields.io/badge/Languages-English-dodgerblue" />
+  <img src="https://img.shields.io/badge/Focus-Leadership-pink" />
+  <img src="https://img.shields.io/badge/Languages-English-pink" />
 </p>
 
 - 🔭 I’m currently working on Project Management.
